@@ -111,8 +111,6 @@ function incluiPlacar(){
     fill(255);
     text(pontosDoOponente, 470, 26);
 
-
-
 }
 
 
